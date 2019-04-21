@@ -1,0 +1,5 @@
+name: UltraTerrenos
+version: 1.0
+main: br.com.endcraft.ultraterrenos.UltraTerrenos
+commands:
+   terreno:
